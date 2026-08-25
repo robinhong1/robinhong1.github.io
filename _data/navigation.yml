@@ -5,3 +5,5 @@ main:
     url: /misc/
   - title: "Students"
     url: /students/
+  - title: "Photos"
+    url: /photos/
