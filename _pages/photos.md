@@ -64,6 +64,39 @@ author_profile: true
 }
 </style>
 
+<div class="photo-event">
+
+  <div class="photo-meta">
+    <div class="photo-date">Aug. 2026, IoTE 2026</div>
+    <div class="photo-location">📍 Shenzhen, China</div>
+  </div>
+
+  <div class="photo-grid">
+
+    <a href="{{ '/assets/images/photos/2026-iote-sz-01.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-iote-sz-01.jpg' | relative_url }}"
+        alt="IoTE 2026, Shenzhen"
+        loading="lazy">
+    </a>
+    
+    <a href="{{ '/assets/images/photos/2026-iote-sz-02.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-iote-sz-02.jpg' | relative_url }}"
+        alt="IoTE 2026, Shenzhen"
+        loading="lazy">
+    </a>
+    
+    <a href="{{ '/assets/images/photos/2026-iote-sz-03.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-iote-sz-03.jpg' | relative_url }}"
+        alt="IoTE 2026, Shenzhen"
+        loading="lazy">
+    </a>
+
+  </div>
+
+</div>
 
 <div class="photo-event">
 
