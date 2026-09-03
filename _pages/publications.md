@@ -22,6 +22,9 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 <span style="color:Forestgreen;font-weight:bold">[RA-L 2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
 <u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
 
+<span style="color:Forestgreen;font-weight:bold">[MobiCom 2026]</span> *Experience: Unveiling GNSS-RTK in the Wild: A 2.5-Year Nationwide Study via Last-Mile Delivery* <br>
+<u>Anlan Yu+</u>, **Zhiqing Hong\***, Jinkun Li, Shuting Pan, Haotian Wang, Yi Ding, Daqing Zhang\*<br>
+
 <span style="color:Forestgreen;font-weight:bold">[VLDB'26]</span> *BiLink: Bidirectional Meta-paths for Link Discovery in Billion-Scale Heterogeneous Graphs* <br>
 <u>Jinquan Hang</u>, **Zhiqing Hong\***, Xinyue Feng, Desheng Zhang, Haotian Wang, and Guang Wang<br>
 
