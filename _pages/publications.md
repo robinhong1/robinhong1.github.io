@@ -19,6 +19,9 @@ This page summarizes the publications related to Large Language Models (LLMs), E
 <span style="color:Forestgreen;font-weight:bold">[CIKM'26]</span> *Next Token Prediction for Generalizable Human Activity Recognition* <br>
 <u>Yize Cai</u>, <u>Anlan Yu</u>, Baoshen Guo, Yunhuai Liu, **Zhiqing Hong\*** <br>
 
+<span style="color:Forestgreen;font-weight:bold">[RA-L 2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
+<u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
+
 <span style="color:Forestgreen;font-weight:bold">[VLDB'26]</span> *BiLink: Bidirectional Meta-paths for Link Discovery in Billion-Scale Heterogeneous Graphs* <br>
 <u>Jinquan Hang</u>, **Zhiqing Hong\***, Xinyue Feng, Desheng Zhang, Haotian Wang, and Guang Wang<br>
 
@@ -58,9 +61,6 @@ Baoshen Guo, <b>Zhiqing Hong</b>, Junyi Li, Shenhao Wang, and Jinhua Zhao<br>
 Wenjun Lyu, Haotian Wang, **Zhiqing Hong**, Guang Wang, Yu Yang, Shuai Wang, Yunhuai Liu, Tian He, and Desheng Zhang<br>
 
 ## Preprint
-
-<span style="color:Forestgreen;font-weight:bold">[2026]</span> *WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models* <br>
-<u>Anlan Yu+</u>, Zaishu Chen+, Peili Song, **Zhiqing Hong\***, Haotian Wang, Desheng Zhang, Tian He, Yi Ding, Daqing Zhang\*<br>
 
 <span style="color:Forestgreen;font-weight:bold">[2026]</span> *Towards a Data Flywheel for Embodied Intelligence in Logistics* <br>
 <u>Anlan Yu</u>, Zaishu Chen, **Zhiqing Hong\***, and Daqing Zhang\*<br>
