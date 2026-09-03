@@ -15,7 +15,7 @@ author_profile: true
 <div style="height: 3px;"></div> <!-- 空行 -->
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 19px; text-align: justify;">
     I work on <strong>Human-centric AI</strong>. 
-    My research interests broadly lie in Embodied AI, Large Language Models (LLMs), Large Sensor Models (LSMs), Generative AI,
+    My research interests broadly lie in Embodied AI, Large Language Models (LLMs), Large Sensor Models (LSMs), 
     and Wearable and Ubiquitous Computing. I have been investigating 
     platforms across more than 300 cities on 2 continents with 2 billion E-commerce orders, 300 thousand vehicles, 500 thousand mobile 
     devices, and 500 million residents involved.
@@ -30,7 +30,7 @@ author_profile: true
 <div style="background-color: #f0f8ff; border-left: 5px solid #1e90ff; padding: 10px 15px; margin: 20px 0; font-size: 20px; line-height: 1.6;">
   <span style="font-size: 20px; margin-right: 8px;">📢</span>
   <span style="color: #1e90ff;">
-    Looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Fall 2026 at HKUST(GZ). Both remote and in-person Research Interns are welcome. 
+    Looking for self-motivated PhD/MPhil/Visiting students and RAs, starting from Fall 2027 at HKUST(GZ). Both remote and in-person Research Interns are welcome. 
     <br>
     Contact me at <u>zhiqinghong@hkust-gz.edu.cn</u>, with your CV! 
     <br>
@@ -42,6 +42,9 @@ author_profile: true
 **Recent News**
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; font-family: Arial, sans-serif; background-color: #ffffff; line-height: 1.6; font-size: 17px;">
+    <div style="margin-bottom: 10px;">
+        <span style="color: #87CEEB; font-weight: bold;">Sep. 2026:</span> Our paper about world model for Embodied AI accepted by IEEE RA-L 2026. Congratulations to Anlan!  
+    </div>
     <div style="margin-bottom: 10px;">
         <span style="color: #87CEEB; font-weight: bold;">August 2026:</span> Our paper about next-token prediction for sensor data pretraining accepted by CIKM 2026. Congratulations to Yize!  
     </div>
