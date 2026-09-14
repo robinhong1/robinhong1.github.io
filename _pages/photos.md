@@ -67,6 +67,27 @@ author_profile: true
 <div class="photo-event">
 
   <div class="photo-meta">
+    <div class="photo-date">Sep. 2026, Research Happy Hour</div>
+    <div class="photo-location">📍 Guangzhou, China</div>
+  </div>
+
+  <div class="photo-grid">
+
+    <a href="{{ '/assets/images/photos/2026-rhh-gz-01.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-rhh-gz-01.jpg' | relative_url }}"
+        alt="Research Happy Hour, Guangzhou"
+        loading="lazy">
+    </a>
+
+  </div>
+
+</div>
+
+
+<div class="photo-event">
+
+  <div class="photo-meta">
     <div class="photo-date">Aug. 2026, IoTE 2026</div>
     <div class="photo-location">📍 Shenzhen, China</div>
   </div>
