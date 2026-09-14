@@ -13,7 +13,7 @@ classes: wide
 
 * Rui Feng, 2026 Fall
 
-* Wenshuo Dong, 2026 Fall
+* [Wenshuo Dong](https://dongwenshuo.github.io/), 2026 Fall
 
 ## Mphil Students
 * Xin Ouyang, 2025 Fall
