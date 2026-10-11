@@ -17,6 +17,10 @@ classes: wide
 
 ## Mphil Students
 * Xin Ouyang, 2025 Fall
+* Xiangyu Meng, 2026 Fall
+
+## Bachelor Students
+* Egor Rybianov, 2026 Fall
 
 ## Visiting Students / Interns / RAs
 
@@ -40,3 +44,8 @@ classes: wide
 * Rui Feng, 2026 Intern, Undergraduate from Wuhan University - Next: Ph.D. student at HKUST(GZ)
   * Wearable AI, Embodied AI
 
+## Thesis committee
+* Peixian Zhang, IoT PhD Thesis @ HKUST(GZ), 2026
+* Jiahui He, IoT PhD Thesis @ HKUST(GZ), 2026
+* Jun Chen, IoT PhD Qualifying Examination @ HKUST(GZ), 2026
+* Kangting Xu, IoT PhD Qualifying Examination @ HKUST(GZ), 2026
