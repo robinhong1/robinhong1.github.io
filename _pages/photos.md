@@ -67,6 +67,62 @@ author_profile: true
 <div class="photo-event">
 
   <div class="photo-meta">
+    <div class="photo-date">Oct. 2026, UbiComp/ISWC 2026</div>
+    <div class="photo-location">📍 Shanghai, China</div>
+  </div>
+
+  <div class="photo-grid">
+
+    <a href="{{ '/assets/images/photos/2026-Ubi-sh-01.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-Ubi-sh-01.jpg' | relative_url }}"
+        alt="UbiComp/ISWC 2026, Shanghai"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-Ubi-sh-02.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-Ubi-sh-02.jpg' | relative_url }}"
+        alt="UbiComp/ISWC 2026, Shanghai"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-Ubi-sh-03.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-Ubi-sh-03.jpg' | relative_url }}"
+        alt="UbiComp/ISWC 2026, Shanghai"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-Ubi-sh-04.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-Ubi-sh-04.jpg' | relative_url }}"
+        alt="UbiComp/ISWC 2026, Shanghai"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-Ubi-sh-05.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-Ubi-sh-05.jpg' | relative_url }}"
+        alt="UbiComp/ISWC 2026, Shanghai"
+        loading="lazy">
+    </a>
+
+    <a href="{{ '/assets/images/photos/2026-Ubi-sh-06.jpg' | relative_url }}" target="_blank">
+      <img
+        src="{{ '/assets/images/photos/2026-Ubi-sh-06.jpg' | relative_url }}"
+        alt="UbiComp/ISWC 2026, Shanghai"
+        loading="lazy">
+    </a>
+
+  </div>
+
+</div>
+
+
+<div class="photo-event">
+
+  <div class="photo-meta">
     <div class="photo-date">Sep. 2026, Research Happy Hour</div>
     <div class="photo-location">📍 Guangzhou, China</div>
   </div>
@@ -201,61 +257,6 @@ author_profile: true
       <img
         src="{{ '/assets/images/photos/2026-openday-gz-03.jpg' | relative_url }}"
         alt="IoT&CMA Joint Event, UG Open Day, Guangzhou"
-        loading="lazy">
-    </a>
-
-  </div>
-
-</div>
-
-<div class="photo-event">
-
-  <div class="photo-meta">
-    <div class="photo-date">Oct. 2026, UbiComp/ISWC 2026</div>
-    <div class="photo-location">📍 Shanghai, China</div>
-  </div>
-
-  <div class="photo-grid">
-
-    <a href="{{ '/assets/images/photos/2026-Ubi-sh-01.jpg' | relative_url }}" target="_blank">
-      <img
-        src="{{ '/assets/images/photos/2026-Ubi-sh-01.jpg' | relative_url }}"
-        alt="UbiComp/ISWC 2026, Shanghai"
-        loading="lazy">
-    </a>
-
-    <a href="{{ '/assets/images/photos/2026-Ubi-sh-02.jpg' | relative_url }}" target="_blank">
-      <img
-        src="{{ '/assets/images/photos/2026-Ubi-sh-02.jpg' | relative_url }}"
-        alt="UbiComp/ISWC 2026, Shanghai"
-        loading="lazy">
-    </a>
-
-    <a href="{{ '/assets/images/photos/2026-Ubi-sh-03.jpg' | relative_url }}" target="_blank">
-      <img
-        src="{{ '/assets/images/photos/2026-Ubi-sh-03.jpg' | relative_url }}"
-        alt="UbiComp/ISWC 2026, Shanghai"
-        loading="lazy">
-    </a>
-
-    <a href="{{ '/assets/images/photos/2026-Ubi-sh-04.jpg' | relative_url }}" target="_blank">
-      <img
-        src="{{ '/assets/images/photos/2026-Ubi-sh-04.jpg' | relative_url }}"
-        alt="UbiComp/ISWC 2026, Shanghai"
-        loading="lazy">
-    </a>
-
-    <a href="{{ '/assets/images/photos/2026-Ubi-sh-05.jpg' | relative_url }}" target="_blank">
-      <img
-        src="{{ '/assets/images/photos/2026-Ubi-sh-05.jpg' | relative_url }}"
-        alt="UbiComp/ISWC 2026, Shanghai"
-        loading="lazy">
-    </a>
-
-    <a href="{{ '/assets/images/photos/2026-Ubi-sh-06.jpg' | relative_url }}" target="_blank">
-      <img
-        src="{{ '/assets/images/photos/2026-Ubi-sh-06.jpg' | relative_url }}"
-        alt="UbiComp/ISWC 2026, Shanghai"
         loading="lazy">
     </a>
 
