@@ -15,9 +15,12 @@ classes: wide
 
 * [Wenshuo Dong](https://dongwenshuo.github.io/), 2026 Fall
 
+  
 ## Mphil Students
 * Xin Ouyang, 2025 Fall
 * Xiangyu Meng, 2026 Fall
+* Zhe Yang, 2026 Fall
+* Xiangjie Kong, 2026 Fall
 
 ## Bachelor Students
 * Egor Rybianov, 2026 Fall
@@ -28,6 +31,8 @@ classes: wide
 * Yaxuan Li, Harbin Institute of Technology (Shenzhen)
 * Zhijie Shen, Jilin University
 * Chen Hu, The University of Edinburgh
+* Lejian Min, Xi'an Jiaotong-Liverpool University
+* Binke Hou, University of Science and Technology of China
 
 ## Alumni
 
