@@ -14,6 +14,8 @@ author_profile: true
 ## Editor and Chair
 * Guest Editor, Special Issue on Revisiting Mobility, IEEE Pervasive Computing
 * Area Chair, KDD 2026
+* Area Chair, KDD 2027
+* Area Chair, ARR 2026
 
 ## Conference Reviewer, PC, or TPC
 * TPC for Ubicomp/ISWC 2026
@@ -33,6 +35,7 @@ author_profile: true
 * IEEE Transactions on Computational Social Systems (TCSS)
 
 ## Awards
+* Best Community Paper Runner-up, MobiCom 2026
 * First Prize, Competition at IEEE/ACM CPS-IoT Week, 2026
 * CIKM Best Student Applied Research Paper Award, 2025
 * KDD Travel Grant, 2025
