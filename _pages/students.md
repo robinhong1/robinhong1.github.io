@@ -15,6 +15,8 @@ classes: wide
 
 * [Wenshuo Dong](https://dongwenshuo.github.io/), 2026 Fall
 
+* Qiming Ye, 2026 Fall (co-advised with [Prof.Gareth Tyson](https://tysong.github.io/))
+
   
 ## Mphil Students
 * Xin Ouyang, 2025 Fall
