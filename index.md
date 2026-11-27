@@ -271,9 +271,6 @@ Foundation Language Models accepted by EMNLP 2024.
 **Zhiqing Hong**, Zelong Li, Shuxin Zhong, Wenjun Lyv, Haotian Wang, Yi Ding, Tian He, and Desheng Zhang<br>
 <u>Highlight</u>: **Sensor Foundation Model** for generalizable human behavior sensing (**Top 2 most read papers in Ubicomp, 2024 May Volumn**)
 
-<span style="color:Forestgreen;font-weight:bold">[TKDE'24]</span> *Nationwide Behavior-Aware Coordinates Mining from Uncertain Delivery Events* [PDF](https://ieeexplore.ieee.org/document/10552380) <br>
-**Zhiqing Hong**, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, and Desheng Zhang<br>
-<u>Highlight</u>: **Nationwide Deployed Mobile Sensing System** for location sensing (**30 million+ locations across 366 cities**)
 
 <!--
 **Recent News**
